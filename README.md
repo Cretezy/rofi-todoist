@@ -2,6 +2,13 @@
 
 Add tasks to [Todoist](https://todoist.com), using [Rofi](https://github.com/davatorium/rofi) for input.
 
+This is a fork of the discontinued [RealOrangeOne/rofi-todoist](https://github.com/RealOrangeOne/rofi-todoist).
+
+![image](https://github.com/user-attachments/assets/d789cd15-854b-4068-aa7b-a0ce2c997614)
+
+![image](https://github.com/user-attachments/assets/1e359f26-c56d-4803-83f3-f7d2252d5408)
+
+
 ## Installation
 
 ### Cargo
